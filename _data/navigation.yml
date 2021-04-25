@@ -1,0 +1,28 @@
+header:
+  - title:      Docs
+    url:        MASR27.github.io/index.md
+  - titles:     About
+    url:        MASR27.github.io/about.md
+  - titles:     Blog
+    url:        Archive
+
+
+docs-en:
+  - title:   INICIO
+    children:
+      - title:  Quick Start
+        url:    /docs/en/quick-start
+      - title:  Structure
+        url:    /docs/en/structure
+      ...
+  - title:      Customization
+    children:
+      - title:  Configuration
+        url:    /docs/en/configuration
+      - title:  Navigation
+        url:    /docs/en/navigatio
+        
+        
+        
+   sidebar:
+  nav: docs-en
